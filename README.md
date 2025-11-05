@@ -1,3 +1,3 @@
 # rock-paper-scissors
 
-A game of rock-paper-scissors played entirely in the console.
+A game of rock-paper-scissors.
